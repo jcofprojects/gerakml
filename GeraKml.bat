@@ -1,0 +1,2 @@
+python GeraKml.py
+pause
